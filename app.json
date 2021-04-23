@@ -1,0 +1,12 @@
+{
+  "name": "uiapp",
+  "displayName": "uiapp",
+  "expo": {
+    "name": "uiapp",
+    "slug": "uiapp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
